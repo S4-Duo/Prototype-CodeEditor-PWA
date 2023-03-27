@@ -25,7 +25,7 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico"/>
                 <link rel="apple-touch-icon" href="/favicon.ico"/>
             </Head>
-            <main className={styles.main}>
+            <main>
                 <Editor
                     className={styles.codeBlock}
                     value={code}

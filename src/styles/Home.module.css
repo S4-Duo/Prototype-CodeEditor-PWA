@@ -1,13 +1,5 @@
-.main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
-}
-
 .codeBlock{
+  position: absolute;
   height: 50%;
-  width: 50%;
+  border: 2px solid black;
 }
